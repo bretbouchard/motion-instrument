@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<PRESET version="1" name="Full Breath" author="SchillingerEcosystem" plugin="BreathLead">
+  <VALUES>
+    <PARAM id="air" value="0.8"/>
+    <PARAM id="tone" value="0.7"/>
+    <PARAM id="formant" value="0.5"/>
+    <PARAM id="resistance" value="0.3"/>
+    <PARAM id="vibratoDepth" value="0.15"/>
+    <PARAM id="vibratoRateHz" value="5.5"/>
+    <PARAM id="noiseColor" value="0.8"/>
+    <PARAM id="sineAnchor" value="0.4"/>
+    <PARAM id="motionSustain" value="1"/>
+    <PARAM id="motionSensitivity" value="0.7"/>
+    <PARAM id="attackMs" value="30.0"/>
+    <PARAM id="releaseMs" value="200.0"/>
+    <PARAM id="outputGainDb" value="0.0"/>
+  </VALUES>
+</PRESET>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<PRESET version="1" name="Evanescent" author="SchillingerEcosystem" plugin="BreathLead">
+  <VALUES>
+    <PARAM id="air" value="0.3"/>
+    <PARAM id="tone" value="0.8"/>
+    <PARAM id="formant" value="0.4"/>
+    <PARAM id="resistance" value="0.2"/>
+    <PARAM id="vibratoDepth" value="0.2"/>
+    <PARAM id="vibratoRateHz" value="7.0"/>
+    <PARAM id="noiseColor" value="0.8"/>
+    <PARAM id="sineAnchor" value="0.3"/>
+    <PARAM id="motionSustain" value="1"/>
+    <PARAM id="motionSensitivity" value="0.7"/>
+    <PARAM id="attackMs" value="150.0"/>
+    <PARAM id="releaseMs" value="800.0"/>
+    <PARAM id="outputGainDb" value="-9.0"/>
+  </VALUES>
+</PRESET>

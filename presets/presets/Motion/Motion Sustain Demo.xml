@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<PRESET version="1" name="Motion Sustain Demo" author="SchillingerEcosystem" plugin="BreathLead">
+  <VALUES>
+    <PARAM id="air" value="0.5"/>
+    <PARAM id="tone" value="0.6"/>
+    <PARAM id="formant" value="0.5"/>
+    <PARAM id="resistance" value="0.3"/>
+    <PARAM id="vibratoDepth" value="0.1"/>
+    <PARAM id="vibratoRateHz" value="5.0"/>
+    <PARAM id="noiseColor" value="0.7"/>
+    <PARAM id="sineAnchor" value="0.3"/>
+    <PARAM id="motionSustain" value="1"/>
+    <PARAM id="motionSensitivity" value="0.9"/>
+    <PARAM id="attackMs" value="50.0"/>
+    <PARAM id="releaseMs" value="50.0"/>
+    <PARAM id="outputGainDb" value="-3.0"/>
+  </VALUES>
+</PRESET>
